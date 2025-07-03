@@ -1,0 +1,1 @@
+export const setupSocket = (server: any) => { console.log('Setting up WebSocket...'); }; 
